@@ -1,0 +1,21 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@cluster0.dwyrm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret",
+    "githubClientId": "04edda63d24f36cecdc6",
+    "githubSecret": "dbc941e1f2238b4afc567b0f848cdcd57770d5f0",
+    "CLOUD_NAME": "gatewayapp",
+    "CLOUDINARY_API_KEY":"268949899546168",
+    "CLOUDINARY_API_SECRET":"dQ4Dh7jgmsoMsp7zy4wFpqvM-uA",
+    "mail_api_key":"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",
+    "GOOGLE_CLIENT_ID":"511139424697-c5msnflm7e9etpgu3bq8acj9d0u3ub5q.apps.googleusercontent.com",
+    "GOOGLE_CLIENT_SECRET":"UoONdmGIjHE2PT82muGvfTPt",
+    "GOOGLE_CALLBACK_URL":"http://localhost:5000/api/users/callback",
+    "FACEBOOK_CLIENT_ID":"2900558276869028",
+    "FACEBOOK_CLIENT_SECRET":"79e23e826258ed98682ed1b67a227c8d",
+    "FACEBOOK_CALLBACK_URL":"http://localhost:5000/api/users/facebook/callback",
+    "YOUTUBE_KEY": "AIzaSyBlOsBLOhWhVXg9SRVJB2pMvMhxm3siT8w",
+    "TWILIO_ACCOUNT_SID":"ACb17ae3b7bcfb470f41dcb6fe65cf367e",
+    "TWILIO_API_KEY":"SK952f95007363d05e4e14a877c10a24b8",
+    "TWILIO_API_SECRET":"frsXDgKsSRAVxzQqsiDCKN5nOA5iVgsu",
+    "REACT_NEWS_API_KEY":"1369f7bb456b466caccf2699264b8549"
+}
